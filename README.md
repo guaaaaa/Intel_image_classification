@@ -22,5 +22,7 @@ The dataset is sourced from Intel Image Classification Dataset. It contains the 
 * Accuracy: Achieved an accuracy of 90% on the test set after 5 training epochs (Only trained for 5 epochs due to hardware limitations).
 
 * Loss and accuracy plot:
+  
   <img width="800" alt="Screenshot 2024-11-26 at 13 36 58" src="https://github.com/user-attachments/assets/3f14f23c-acdc-4dc6-9f3a-3fb9754c5363">
+  
   <img width="800" alt="Screenshot 2024-11-26 at 13 37 16" src="https://github.com/user-attachments/assets/f6364b4e-d370-4403-91da-9990099bee9e">
